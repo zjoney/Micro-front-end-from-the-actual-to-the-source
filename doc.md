@@ -285,13 +285,13 @@ in-browser utility module (styleguide, api cache, etc)
 
 2.生成react子应用
 
-```
+```js
 create-single-spa react-project
 ```
 
 1）配置路由
 
-```
+```js
 npm install react-router-dom
 
 ```
@@ -458,7 +458,6 @@ activeWhen: location => location.pathname.startsWith('/vue'),
 4.生产parcel应用
 
 ```js
-Version:0.9 StartHTML:0000000105 EndHTML:0000000328 StartFragment:0000000141 EndFragment:0000000288
 
 create-single-spa parcel
 ```

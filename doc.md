@@ -265,7 +265,7 @@ create-single-spa substrate
 ```
 
 
-```
+```js
 # 创建子项目
 
 single-spa application / parcel
